@@ -1,1 +1,1 @@
-# stevejobs.github.io
+# SteveJobs sample website (Assignment)
